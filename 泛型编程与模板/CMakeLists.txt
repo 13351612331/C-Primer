@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.2)
+project(FUNCTION_TEMPLATE)
+
+add_executable(1_function_template_definition 1_function_template_definition.cpp)
+add_executable(2_function_template_call 2_function_template_call.cpp)
+add_executable(3_implementation_principle_of_function_template 3_implementation_principle_of_function_template.cpp)
