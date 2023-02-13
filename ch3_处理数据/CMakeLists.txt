@@ -3,3 +3,8 @@ project(C++_Primer_CH3)
 
 add_executable(3.1_limits 3.1_limits.cpp)
 add_executable(3.2_exceed 3.2_exceed.cpp)
+add_executable(3.3_hexoct 3.3_hexoct.cpp)
+add_executable(3.4_hexoct2 3.4_hexoct2.cpp)
+add_executable(3.5_chartype 3.5_chartype.cpp)
+add_executable(3.6_morechar 3.6_morechar.cpp)
+add_executable(3.7_bondini 3.7_bondini.cpp)
